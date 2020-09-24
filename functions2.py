@@ -62,6 +62,7 @@ def average(num1, num2, num3, num4, num5, num6):
     return (num1 + num2 + num3 + num4 + num5 + num6)/6
 
 def main():
-    print(average(1,2,3,4,5,6))
+    print(average(5, 6, 7, 8, 9, 10))
+    print(average(40,20,10,12,49,20))
 
 main()
